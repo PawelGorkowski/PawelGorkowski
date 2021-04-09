@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and flutter projects.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects in technologies listed above.
-- 📫 How to reach me here :D
+- 📫 How to reach me @ risk0@o2.pl :D
 
 <!---
 PawelGorkowski/PawelGorkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
